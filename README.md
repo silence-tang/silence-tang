@@ -18,13 +18,10 @@ Here are some ideas to get you started:
 
 
 
+![Visitor Count](https://profile-counter.glitch.me/silence-tang/count.svg)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=silence-tang&show_icons=true&theme=tokyonight&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silence-tang&layout=compact" />
-</a>
+| ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=silence-tang&show_icons=true&theme=tokyonight&count_private=true) | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silence-tang&layout=compact" alt="Top Langs" style="zoom:120%;" /> |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=silence-tang&theme=react-dark)
 
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=silence-tang&theme=react-dark" alt="Ashutosh's github activity graph" style="zoom:67%;" />

@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Visitor Count](https://profile-counter.glitch.me/silence-tang/count.svg)
+
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=silence-tang&show_icons=true&theme=tokyonight)

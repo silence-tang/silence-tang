@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=silence-tang&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silence-tang&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silence-tang)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=silence-tang&theme=react-dark)

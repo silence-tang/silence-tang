@@ -2,4 +2,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=silence-tang&theme=algolia&count_private=true"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silence-tang"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silence-tang&theme=algolia"/>

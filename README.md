@@ -3,7 +3,3 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=silence-tang&theme=transparent&count_private=true"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silence-tang"/>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silence-tang&theme=transparent&count_private=true)
-
